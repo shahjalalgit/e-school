@@ -1,0 +1,89 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+p{
+    color: #9e9090;
+}
+.top-bg{
+    background-color: #F0FFF0;
+    height: 576px;
+}
+.container{
+    margin-bottom: 50px;
+}
+.navbar-brand img{
+    height: 50px;
+}
+.btn{
+    background-color: #21B573;
+    border: none;
+    border-radius: 33px;
+    color: white;
+    padding: 12px, 28px;
+}
+.header h6{
+    color: #FD511A;
+}
+.cat-bg{
+    background-color: #F0FFF0;
+    padding: 30px 20px;
+    border-radius: 10px;
+    border: none;
+}
+span{
+    color: #21B573;
+}
+.header img{
+    width: 554px;
+    height: 346px;
+}
+ h1{
+    font-weight: 800;
+}
+.catagories img{
+    padding-bottom: 20px;
+    width: 100px;
+}
+.col-md-3{
+    text-align: center;  
+}
+.card{
+    border: none;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.hover:hover{
+    background-color: white;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.man{
+    width: 800px;
+}
+.man img{
+    width: 100px;
+}
+.man p{
+    padding: 10px 40px;
+    color: black;
+    font-weight: 400;
+}
+.black-bg{
+    background-color: #282531;
+    height: 369px;
+}
+.col-md-6 p{
+    width: 500px;
+    text-align: center;
+    padding: 30px 40px;
+}
+.black-bg h6{
+    padding-top: 20px;
+    color: white;
+}
+.footer{
+    text-align: center;
+    padding-top: 70px;
+    color: white;
+}
